@@ -1,13 +1,21 @@
 {
-  "name": "static-site",
+  "name": "gt-node.js-es6-readme-homework08",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakmk/gt-node.js-es6-readme-homework08.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakmk/gt-node.js-es6-readme-homework08/issues"
+  },
+  "homepage": "https://github.com/pakmk/gt-node.js-es6-readme-homework08#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   }
